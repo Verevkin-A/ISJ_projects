@@ -1,2 +1,2 @@
-# ISJ_projects
-VUT FIT, ISJ projects and minitasks
+# ISJ_projects (VUT FIT 2020/2021)
+## Skriptovací jazyky: Projects and minitasks
